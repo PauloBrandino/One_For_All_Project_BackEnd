@@ -102,7 +102,7 @@ INSERT INTO SpotifyClone.users (`name`, `age` , signature_date, plan_id)
     ('Robert Cecil Martin', 58, '2017-01-06', 1),
     ('Ada Lovelace', 37, '2017-12-30', 2),
     ('Martin Fowler', 46, '2017-01-17', 2),
-    ('Sandi Metz', 58, '2018-04-29', 3),
+    ('Sandi Metz', 58, '2018-04-29', 2),
     ('Paulo Freire', 19, '2018-02-14', 3),
     ('Bell Hooks', 26, '2018-01-05', 3),
     ('Christopher Alexander', 85, '2019-06-05', 4),
